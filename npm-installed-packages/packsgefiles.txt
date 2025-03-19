@@ -1,0 +1,12 @@
+### Material UI styled components:
+## npm install @mui/system @mui/styled-engine-sc styled-components
+### React Icons :
+## npm i react-icons
+### Missing dependency that MUI (Material-UI) :
+## npm install @emotion/styled
+### React router dom
+## npm install react-router-dom
+### React Bootstrap
+## npm i react-bootstrap bootstrap
+### Chakta ui
+## npm i @chakra-ui/react
